@@ -8,7 +8,11 @@ function createWindow() {
     frame: false, // Hide the title bar
     webPreferences: {
       nodeIntegration: true, // Keep on or it will break enbeds
-      webaudio: false // Enable web audio support for api requests NOT BROWSER
+      webaudio: false, // Enable web audio support for api requests NOT BROWSER
+      sandbox: false, // Disable sandbox mode
+      devTools: false, // Disable DevTools
+      enableRemoteModule: false, // Disable remote module
+      contextIsolation: false // Disable context isolation
     }
   });
 
