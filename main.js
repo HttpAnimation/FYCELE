@@ -7,8 +7,8 @@ function createWindow() {
     height: 900,
     frame: false, // Hide the title bar
     webPreferences: {
-      nodeIntegration: true,
-      webaudio: true // Enable web audio support
+      nodeIntegration: true, // Keep on or it will break enbeds
+      webaudio: false // Enable web audio support for api requests NOT BROWSER
     }
   });
 
