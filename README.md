@@ -10,7 +10,10 @@ This is a Build of FYC that is a desktop app this dose not come with the FYC sou
 
 if you don't have it setup it will show a white screnn pls make sure not use a old version of FYC as it will cause issues with keybinds and will cause api issues
 
-How to run
+# Hot to install with a python3 script (RECOMMANED)
+cd into the FYCELE folder and run wget 
+
+# How to run
 make a folder called something like FYCELE and put the ele code in there
 
     httpanimatins@pop-os:~/Code/FYCELE$ ls
