@@ -32,4 +32,4 @@ make a folder called something like FYCELE and put the ele code in there
 nano for terminal gedit for gui based
 
 # Running
-    $: npm start
+    $: npm run

@@ -1,2 +1,2 @@
 import os
-os.system("npm start")
+os.system("npm run")
