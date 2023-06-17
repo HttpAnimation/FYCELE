@@ -18,7 +18,7 @@ os.system("wget https://raw.githubusercontent.com/HttpAnimation/FYCELE/main/pack
 os.system("wget https://raw.githubusercontent.com/HttpAnimation/FYCELE/main/start.py")
 os.system("mkdir FYC")
 print("Put your fyc files in the folder FYC on the root dir NO SUB FOLDER it should look like this")
-print("httpanimatins@pop-os:~/Downloads/AWAWAW$ ls")
+print("FYC@linux:~/Downloads/AWAWAW$ ls")
 print("FYC  install.py  main.js  node_modules  package.json  package.json.1  package-lock.json")
 time.sleep(5)
 print("Once you put in the FYC files run start.py to start or run | npm start")
