@@ -13,8 +13,6 @@ if you don't have it setup it will show a white screnn pls make sure not use a o
 # How to install with a python3 script (RECOMMANED)
 make a new folder cd into it then run
 
-
-
     wget https://raw.githubusercontent.com/HttpAnimation/FYCELE/main/install.py
 
 # How to run
