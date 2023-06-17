@@ -1,7 +1,17 @@
 import os
+import time
+print("Installing and setting up event")
+time.sleep(5)
 os.system("sudo apt install")
 os.system("npm init -y")
 os.system("npm install electron")
+print("Removeing unsed files")
+time.sleep(5)
 os.system("rm main.js")
 os.system("rm package-lock.json")
 os.system("package.json")
+print("Adding files")
+time.sleep(5)
+os.system("wget https://raw.githubusercontent.com/HttpAnimation/FYCELE/main/main.js")
+os.system("wget https://raw.githubusercontent.com/HttpAnimation/FYCELE/main/package-lock.json")
+os.system("wget https://raw.githubusercontent.com/HttpAnimation/FYCELE/main/package.json")
