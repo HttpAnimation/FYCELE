@@ -36,7 +36,8 @@ make a folder called something like FYCELE and put the ele code in there
     $: gedit main.js
     $: nano main.js
 
-nano for terminal gedit for gui based
+nano for terminal
+gedit for gui based
 
 # Running
     $: npm start
