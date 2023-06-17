@@ -10,8 +10,10 @@ This is a Build of FYC that is a desktop app this dose not come with the FYC sou
 
 if you don't have it setup it will show a white screnn pls make sure not use a old version of FYC as it will cause issues with keybinds and will cause api issues
 
-# Hot to install with a python3 script (RECOMMANED)
+# How to install with a python3 script (RECOMMANED)
 make a new folder cd into it then run
+
+
 
     wget https://raw.githubusercontent.com/HttpAnimation/FYCELE/main/install.py
 
